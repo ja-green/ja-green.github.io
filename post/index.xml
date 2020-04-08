@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All Posts on Jack Green</title>
-    <link>http://ja-green.github.io/post/</link>
+    <link>https://ja-green.github.io/post/</link>
     <description>Recent content in All Posts on Jack Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://ja-green.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ja-green.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://ja-green.github.io/post/my-first-post/</link>
+      <link>https://ja-green.github.io/post/my-first-post/</link>
       <pubDate>Wed, 08 Apr 2020 17:28:54 +0100</pubDate>
       
-      <guid>http://ja-green.github.io/post/my-first-post/</guid>
+      <guid>https://ja-green.github.io/post/my-first-post/</guid>
       <description>Hello and welcome to my first blog post! I am excited to begin blogging and share my learning experiences with you. I love learning new things and improving my skills in security and programming. It will be great to have you along with me and I hope you learn something too! I tend to always have a personal project of some description the go so it will be a fun experience to log my journey in completing each of them (and hopefully keep me committed to completing them too!</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jack Green</title>
-    <link>http://ja-green.github.io/categories/</link>
+    <link>https://ja-green.github.io/categories/</link>
     <description>Recent content in Categories on Jack Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Apr 2020 17:28:54 +0100</lastBuildDate>
     
-	<atom:link href="http://ja-green.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ja-green.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>general</title>
-      <link>http://ja-green.github.io/categories/general/</link>
+      <link>https://ja-green.github.io/categories/general/</link>
       <pubDate>Wed, 08 Apr 2020 17:28:54 +0100</pubDate>
       
-      <guid>http://ja-green.github.io/categories/general/</guid>
+      <guid>https://ja-green.github.io/categories/general/</guid>
       <description></description>
     </item>
     
