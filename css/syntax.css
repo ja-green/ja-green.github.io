@@ -1,0 +1,53 @@
+code {
+    overflow: auto;
+    display: block;
+    position: relative;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    padding: 1rem 1rem 2rem;
+    border: $border;
+    font-size: 16px;
+    font-family: 'Inconsolata', monospace;
+    background-color: #ffffff;
+}
+
+.highlight      { background: #ffffff;                  }
+.highlight .hll { background-color: #ffffcc             }
+.highlight .c   { font-style: italic                    } /* comment */
+.highlight .err { border: 1px solid #ff0000             } /* error */
+.highlight .k   { font-weight: bold                     } /* keyword */
+.highlight .ch  { font-style: italic                    } /* comment.hashbang */
+.highlight .cm  { font-style: italic                    } /* comment.multiline */
+.highlight .cpf { font-style: italic                    } /* comment.preprocfile */
+.highlight .c1  { font-style: italic                    } /* comment.single */
+.highlight .cs  { font-style: italic                    } /* comment.special */
+.highlight .ge  { font-style: italic                    } /* generic.emph */
+.highlight .gh  { font-weight: bold                     } /* generic.heading */
+.highlight .gp  { font-weight: bold                     } /* generic.prompt */
+.highlight .gs  { font-weight: bold                     } /* generic.strong */
+.highlight .gu  { font-weight: bold                     } /* generic.subheading */
+.highlight .kc  { font-weight: bold                     } /* keyword.constant */
+.highlight .kd  { font-weight: bold                     } /* keyword.declaration */
+.highlight .kn  { font-weight: bold                     } /* keyword.namespace */
+.highlight .kr  { font-weight: bold                     } /* keyword.reserved */
+.highlight .s   { font-style: italic                    } /* literal.string */
+.highlight .nc  { font-weight: bold                     } /* name.class */
+.highlight .ni  { font-weight: bold                     } /* name.entity */
+.highlight .ne  { font-weight: bold                     } /* name.exception */
+.highlight .nn  { font-weight: bold                     } /* name.namespace */
+.highlight .nt  { font-weight: bold                     } /* name.tag */
+.highlight .ow  { font-weight: bold                     } /* operator.word */
+.highlight .sa  { font-style: italic                    } /* literal.string.affix */
+.highlight .sb  { font-style: italic                    } /* literal.string.backtick */
+.highlight .sc  { font-style: italic                    } /* literal.string.char */
+.highlight .dl  { font-style: italic                    } /* literal.string.delimiter */
+.highlight .sd  { font-style: italic                    } /* literal.string.doc */
+.highlight .s2  { font-style: italic                    } /* literal.string.double */
+.highlight .se  { font-weight: bold; font-style: italic } /* literal.string.escape */
+.highlight .sh  { font-style: italic                    } /* literal.string.heredoc */
+.highlight .si  { font-weight: bold; font-style: italic } /* literal.string.interpol */
+.highlight .sx  { font-style: italic                    } /* literal.string.other */
+.highlight .sr  { font-style: italic                    } /* literal.string.regex */
+.highlight .s1  { font-style: italic                    } /* literal.string.single */
+.highlight .ss  { font-style: italic                    } /* literal.string.symbol */
